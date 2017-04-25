@@ -8,6 +8,7 @@ public class Test2 {
         System.out.println("Test2");
         System.out.println("testing");
         System.out.println("master branch");
+        System.out.println("testing branch");
 
     }
 }
